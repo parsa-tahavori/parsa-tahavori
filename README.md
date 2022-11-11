@@ -1,11 +1,15 @@
 ### Hi there 👋
-Hi. My name is Alex Nelson, and I am a student of computer science. I am currently taking a computer science course at the open level (ICS2O) at St Mother Teresa Highschool located in Ottawa, Ontario. I am 15 years old, and I am relatively new to programming. However I have learned to create webpages using CSS and HTML, as well as basic algorithms with JavaScript.
+Hi. My name is Parsa Tahavori, and I am a student of computer science. I am currently taking a computer science course at the open level (ICS2O) at St Mother Teresa Highschool located in Ottawa, Ontario. I am 15 years old, and I am relatively new to programming. I have learned to create webpages using CSS and HTML, as well as basic algorithms with JavaScript.
 
 - 🔭 I’m currently not working 
 - 🌱 I’m currently learning in school 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with my studying
-- 💬 Ask me about nothing
+- 🤔 I’m looking for someone help my with my studying
+- 💬 Ask me about foods 
 - 📫 How to reach me: parsa.tahavroi@stu.ocsb.ca
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't like pineapple on pizza 
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706c69742d4444313230303f7374796c653d666f722d7468652d6261646765266c6f676f3d5265706c6974266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/113055869/201442423-657bdcc6-7823-4a11-9b92-071b52575481.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/113055869/201442425-59ac29c9-1d62-46d4-959f-2c76cb334779.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://user-images.githubusercontent.com/113055869/201442427-1b3cb98e-5ee1-4a47-a98c-5caa8e89f4af.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/113055869/201442431-a542a38a-a225-4db7-9ece-d1d4ad8c0c49.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/113055869/201442436-5dbcf23c-ef4f-4bd2-84c9-8fd7a7136a84.svg)
